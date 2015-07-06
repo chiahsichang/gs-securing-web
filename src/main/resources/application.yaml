@@ -1,0 +1,7 @@
+cht:
+  security:
+    authtype: sdptest
+spring:
+  jackson:
+    serialization:
+      indentOutput: true
