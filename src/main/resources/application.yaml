@@ -1,6 +1,6 @@
 cht:
   security:
-    authtype: sdptest
+    authtype: sso
 spring:
   jackson:
     serialization:
